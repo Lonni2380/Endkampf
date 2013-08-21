@@ -1,4 +1,5 @@
 import random
+#....
 #Schadensmodell
 #Heiltrank = Voller Schaden
 #Ausweichen + Biss: 0
