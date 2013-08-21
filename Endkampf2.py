@@ -76,7 +76,7 @@ while bhp > 0 and shp > 0:
         print ("Du versuchst den Ultimativen Angriff")
         treffer = random.random()
         if treffer < chance:
-            print("Hurra!! Ultimativer treffer geglückt")
+            print("Hurra!! Ultimativer Treffer geglückt")
             schaden = maxschaden*2
             print(b,"erleidet",schaden,"Schaden")
             bhp = bhp-schaden
